@@ -7,5 +7,20 @@
     "express-async-handler": "^1.2.0",
     "init": "^0.1.2",
     "mongoose": "^8.3.4"
-  }
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "engines": {
+    "node": "20.11.0",
+    "npm": "10.2.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
